@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Emily Larkins
 
-<!--
-**emilylarkins/emilylarkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Washington and Lee University studying computer science.
 
-Here are some ideas to get you started:
+## About Me
+- W&L Class of 2029
+- Interested in computer science and technology
+- Interested in pursuing law
+- Interested in data and public-interest applications of technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+- Python & Java
+- Git & GitHub
